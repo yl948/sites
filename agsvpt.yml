@@ -2,7 +2,7 @@ id: agsvpt
 name: 末日
 domain: https://pt.agsvpt.cn/
 encoding: UTF-8
-config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/htnanako/movie-robot-public/main/app/sites/agsv.yml
+config_url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/yl948/sites/refs/heads/main/agsvpt.yml
 
 login:
   test:
